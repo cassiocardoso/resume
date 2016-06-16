@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Cassio Cardoso",
+    "label": "Web Developer",
+	  "picture": "",
+	  "email": "cassiocardoso@icloud.com",
+		"phone": "(11) 99624-0700",
+		"website": "http://cassio.rocks",
+    "summary": "Cassio was born and raised in Taubaté, a small city in the country side of São Paulo state near the mountains and the beach. He earned his bachelor degree in Computer Engineering from Universidade do Vale do Paraíba in 2014.  Currently he works at AMARO as a front-end developer. Before that he worked as a web developer at INPE (Instituto Nacional de Pesquisas Espaciais) for 5 years. His professional interests range widely from user experience, information architecture and design to web development, programming, optimization and server configuration. In his personal time he likes to watch TV series, play board and video games and do some sport.",
+		"location": {
+			"address": "Rua Francisco Luiz de Souza Junior",
+			"postalCode": "05037-001",
+			"city": "São Paulo",
+			"countryCode": "BR",
+			"region": "São Paulo"
+		},
+		"profiles": [
+			{
+				"network": "Facebook",
+				"username": "cassiocardoso01",
+				"url": "https://www.facebook.com/cassiocardoso01"
+			},
+      {
+				"network": "Twitter",
+				"username": "cassiocardoso",
+				"url": "https://twitter.com/cassiocardoso"
+			},
+      {
+				"network": "Instagram",
+				"username": "cassiocardoso",
+				"url": "https://www.instagram.com/cassiocardoso/"
+			},
+      {
+				"network": "LinkedIn",
+				"username": "cassiocardoso",
+				"url": "https://br.linkedin.com/in/cassiocardoso"
+			},
+      {
+				"network": "GitHub",
+				"username": "cassiocardoso",
+				"url": "https://github.com/cassiocardoso"
+			},
+		]
+	},
+	"work": [
+		{
+			"company": "AMARO",
+			"position": "Front-end Developer",
+			"website": "https://amaro.com",
+			"startDate": "2014-07-01",
+			"endDate": "2016-12-31",
+			"summary": "AMARO is a vertically integrated online fast fashion brand and technology company, based in São Paulo. The company leverages in-house design and manufacturing to weekly launch the latest trends at disruptive prices. Through premium brand story telling and a proprietary technology stack, AMARO is changing the way Brazilians consume fashion.",
+			"highlights": [
+				"Build the front-end for the ecommerce platform from scratch using a mobile-first approach"
+			]
+		}
+	],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "Universidade do Vale do Paraíba",
+			"area": "Computer Engineering",
+			"studyType": "Bachelor",
+			"startDate": "2008-02-01",
+			"endDate": "2014-12-01",
+			"gpa": "3.0",
+			"courses": []
+		}
+	],
+	"awards": [],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Front-end Development",
+			"level": "Master",
+			"keywords": [
+				"HTML",
+				"CSS",
+        "LESS",
+        "Sass",
+				"Javascript",
+        "React",
+        "Markdown",
+        "Git"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "Portuguese",
+			"fluency": "Native speaker"
+		},
+    {
+			"language": "English",
+			"fluency": "Professional fluency"
+		},
+    {
+			"language": "Spanish",
+			"fluency": "Limited conversational skills"
+		}
+	],
+	"interests": [
+		{
+			"name": "Sports",
+			"keywords": [
+				"Soccer",
+				"Football"
+			]
+		},
+    {
+			"name": "Games",
+			"keywords": [
+				"Board Games",
+				"Video Games"
+			]
+		}
+	],
+	"references": [],
+	"meta": {
+		"url": "http://cassio.rocks"
+	}
+}
