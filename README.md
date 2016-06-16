@@ -8,7 +8,8 @@ Based on: [resume-schema](https://github.com/jsonresume/resume-schema)
 
 ## Roadmap
 
+- [ ] Create HTML & Markdown based on JSON
 - [ ] Add GitHub ribbon (T. Holman version)
-- [ ] Add different themes
+- [ ] Add different Sass themes
 - [ ] Add print button & styles
 - [ ] Add PDF button & functionality
