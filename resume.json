@@ -48,14 +48,75 @@
 			"position": "Front-end Developer",
 			"website": "https://amaro.com",
 			"startDate": "2014-07-01",
-			"endDate": "2016-12-31",
+			"endDate": "current",
 			"summary": "AMARO is a vertically integrated online fast fashion brand and technology company, based in São Paulo. The company leverages in-house design and manufacturing to weekly launch the latest trends at disruptive prices. Through premium brand story telling and a proprietary technology stack, AMARO is changing the way Brazilians consume fashion.",
 			"highlights": [
-				"Build the front-end for the ecommerce platform from scratch using a mobile-first approach"
+				"Build the front-end for the ecommerce platform from scratch using a mobile-first approach."
 			]
-		}
+		},
+    {
+			"company": "cassio.rocks",
+			"position": "Web Developer",
+			"website": "https://cassio.rocks",
+			"startDate": "2014-03-01",
+			"endDate": "current",
+			"summary": "At cassio.rocks my goal is to work with all kinds of partners to help their products or services become known by more people, creating beautiful and optimized web sites and applications that fill all the clients needs.",
+			"highlights": [
+				"Build Top10 Comunica website.",
+        "Build APFA (Associação Pró-Futebol Americano) website",
+        "Build the PMS (Player Management System) for APFA competitions.",
+        "Designed and developed the Ser Confeiteira blog."
+			]
+		},
+    {
+			"company": "INPE",
+			"position": "Web Developer",
+			"website": "http://inpe.br",
+			"startDate": "2009-03-01",
+			"endDate": "2014-04-01",
+			"summary": "INPE is the brazilian national space agency. It aims to be a national and international reference in the space areas and the terrestrial environment for the generation of knowledge and the service and anticipating the demands of development and quality of life of Brazilian society.",
+			"highlights": [
+				"Redesigned the website for the Space Weather program.",
+        "Build an online system to allow space weather researchers to publish a daily bulletin.",
+        "Build hot-sites for biannual workshops organized by the Space Weather program."
+			]
+		},
 	],
-	"volunteer": [],
+  "volunteer": [
+    {
+			"organization": "Taubaté Big Donkeys",
+			"position": "President & Head Coach",
+			"website": "http://bigdonkeys.com.br",
+			"startDate": "2010-01-01",
+			"endDate": "2014-12-31",
+			"summary": "Taubaté Big Donkeys is a non-profit sports organization based in Taubaté, São Paulo. The organization has an adult male flag football team which plays the state championship in two modalities: 5x5 and 8x8. It had a junior and a female team during 2011-2013. It always organizing events to help other NPO in the city and increase awareness about football.",
+			"highlights": [
+        "Managed the administrative and finance departments of the organization from 2011 to 2013."
+				"Coached the adult team from 2010 to 2014.",
+        "Coached the junior and female team in 2013.",
+        "Organized around 3 or 4 football games in Taubaté city form 2011 to 2014.",
+        "Champion of Vale do Paraíba Bowl in 2012",
+        "Runner up of Vale do Paraíba Bowl in 2013",
+        "Third place in brazilian national flag championship in 2013",
+        "Runner up of São Paulo state flag championship in 2013",
+        "Runner up of São Paulo state flag championship in 2014"
+			]
+		},
+  ],
+	"organization": [
+    {
+			"organization": "FEMUG-VP (Front-end meetup group - Vale do Paraíba)",
+			"position": "Co-founder",
+			"website": "http://sp.femug.com",
+      "area": "Web development",
+			"startDate": "2014-02-01",
+			"endDate": "current",
+			"summary": "I helped to organize the Front-End developers community in Vale do Paraíba. Contacted BrazilJS, to open a new group in the region and merged the idea with other professionals with an existing group.",
+			"highlights": [
+        "We organize monthly meetups to talk about front-end development, resources, worklfow, techniques and everything between these topics."
+			]
+		},
+  ],
 	"education": [
 		{
 			"institution": "Universidade do Vale do Paraíba",
@@ -115,8 +176,17 @@
 			]
 		}
 	],
-	"references": [],
+	"references": [
+    {
+      "name": "Rubens Gatto",
+      "reference": "Orientei o Cássio como bolsista-PCI no INPE durante o desenvolvimento do portal do programa EMBRACE - Estudo e Monitoramento Brasileiro de Clima Espacial. Desempenhou as atividades atribuídas a ele com competência e criatividade, sendo seu trabalho neste projeto considerado um dos melhores sob o programa PCI do INPE."
+    },
+    {
+      "name": "Walter Gargarela",
+      "reference": "Cassio is a very committed person and professional, always ready for what is necessary and extremely focused on the quality of their services, using the most modern technologiesin an appropriate way, into the project that participated, reaching and developing solutions of the highest level . I have a great pleased to have you as friend after years of working together, proud to see their professional growth, recommending it to anyone."
+    }
+  ],
 	"meta": {
-		"url": "http://cassio.rocks"
+		"url": "http://cassio.rocks/resume"
 	}
 }
