@@ -146,10 +146,15 @@
 			"level": "Master",
 			"keywords": [
 				"HTML",
+				"Mustache",
+				"Jade",
+				"Ejs",
 				"CSS",
         "LESS",
         "Sass",
+        "Stylus",
 				"Javascript",
+				"jQuery",
         "React",
         "Markdown",
         "Git"
