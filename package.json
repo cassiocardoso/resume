@@ -1,14 +1,13 @@
 {
-  "name": "my-resume",
-  "version": "0.1.0",
-  "description": "My professional resume",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
+  "name": "cassio-cardoso-resume",
+  "version": "1.0.0",
+  "description": "Cassio Cardoso - Front-end engineer",
   "keywords": [
     "resume",
-    "programmer"
+    "front-end",
+    "engineer",
+    "management",
+    "leadership"
   ],
   "author": "Cassio Cardoso <caugusto.cardoso@gmail.com>",
   "license": "MIT"
