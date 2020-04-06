@@ -188,8 +188,19 @@
         "Javascript",
         "React",
         "Redux",
-        "Node.js",
+        "Webpack",
         "TypeScript"
+      ]
+    },
+    {
+      "name": "Back-end Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "Nest.js",
+        "GraphQL",
+        "MySQL"
       ]
     },
     {
