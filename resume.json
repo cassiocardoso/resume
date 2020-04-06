@@ -2,18 +2,17 @@
   "basics": {
     "name": "Cassio Cardoso",
     "label": "Front-end Engineer",
-	  "picture": "",
-	  "email": "caugusto.cardoso@gmail.com",
+    "picture": "https://raw.githubusercontent.com/cassiocardoso/resume/master/assets/profile_sm.jpg",
+    "email": "caugusto.cardoso@gmail.com",
     "phone": "",
-		"url": "https://cassiocardoso.me",
-		"summary": "I’m a self-motivated front-end engineer with over eight years of experience. Throughout my career I had the chance to work on projects of all sizes, from small internal tools to applications that are used by millions of people each month, I always strive to deliver the best user experience to the customer with a reliable, resilient and highly available solution.",
+    "url": "https://cassiocardoso.me",
+    "summary": "I am a passionate and self-motivated front-end engineer with more than eight years of experience. I love to craft great user experiences in the most efficiently and elegantly way. I am completely enthusiastic with a full-stack environment and passionate about the JavaScript world.",
     "location": {
-
-			"city": "Berlin",
-			"countryCode": "DE",
-			"region": "Berlin"
-		},
-		"profiles": [
+      "city": "Berlin",
+      "countryCode": "DE",
+      "region": "Berlin"
+    },
+    "profiles": [
       {
         "network": "LinkedIn",
         "username": "cassiocardoso",
@@ -39,19 +38,19 @@
         "username": "cassiocardoso",
         "url": "https://twitter.com/cassiocardoso"
       },
-			{
-				"network": "Facebook",
-				"username": "cassiocardoso01",
-				"url": "https://www.facebook.com/cassiocardoso01"
-			},
       {
-				"network": "Instagram",
-				"username": "cassiocardoso",
-				"url": "https://www.instagram.com/cassiocardoso/"
-			}
-		]
-	},
-	"work": [
+        "network": "Facebook",
+        "username": "cassiocardoso01",
+        "url": "https://www.facebook.com/cassiocardoso01"
+      },
+      {
+        "network": "Instagram",
+        "username": "cassiocardoso",
+        "url": "https://www.instagram.com/cassiocardoso/"
+      }
+    ]
+  },
+  "work": [
     {
       "name": "Omio (formerly GoEuro)",
       "location": "Berlin, Germany",
@@ -96,47 +95,47 @@
         "Organized the front-end team tasks in an agile way"
       ]
     },
-		{
+    {
       "name": "AMARO",
       "location": "São Paulo, Brazil",
       "description": "AMARO is a DNVB (digital native vertical brand that uses bleeding-edge technology to become the biggest case of omni-channel experiences in Brazil.",
       "position": "Lead Front-end Developer",
       "url": "https://amaro.com",
-			"startDate": "2014-07-01",
-			"endDate": "2016-06-30",
-			"summary": "Develop and maintain the front-end for the e-commerce application, gather requirements, build layouts, optimize the performance and SEO rankings.",
-			"highlights": [
+      "startDate": "2014-07-01",
+      "endDate": "2016-06-30",
+      "summary": "Develop and maintain the front-end for the e-commerce application, gather requirements, build layouts, optimize the performance and SEO rankings.",
+      "highlights": [
         "Joined the company as employee #30",
-				"Built the entire front-end application for the in-house e-commerce platform",
+        "Built the entire front-end application for the in-house e-commerce platform",
         "Created an internal UI library to be used across all the front-end apps"
-			]
-		},
+      ]
+    },
     {
-			"company": "INPE",
-			"position": "Web Developer",
-			"website": "http://www.inpe.br",
-			"startDate": "2009-03-01",
-			"endDate": "2014-04-30",
-			"summary": "Worked as a web developer in the space weather program, developed its web portal and several integrations with equipments collecting data across the country. Built visualization tools for these data. ",
-			"highlights": [
-				"Developed the website for the Space Weather program.",
+      "company": "INPE",
+      "position": "Web Developer",
+      "website": "http://www.inpe.br",
+      "startDate": "2009-03-01",
+      "endDate": "2014-04-30",
+      "summary": "Worked as a web developer in the space weather program, developed its web portal and several integrations with equipments collecting data across the country. Built visualization tools for these data. ",
+      "highlights": [
+        "Developed the website for the Space Weather program.",
         "Developed systems to store and visualize data collected by different equipments across the country",
         "Build an online system to allow space weather researchers to publish a daily bulletin with a summary of information from the related fields of study.",
         "Build hot-sites for biannual workshops organized by the Space Weather program."
-			]
-		}
-	],
+      ]
+    }
+  ],
   "volunteer": [
     {
-			"organization": "Taubaté Big Donkeys",
-			"position": "President & Head Coach",
-			"website": "https://facebook.com/bigdonkeys",
-			"startDate": "2010-01-01",
-			"endDate": "2014-12-31",
-			"summary": "Taubaté Big Donkeys is a non-profit sports organization based in Taubaté, São Paulo. The organization has an adult male flag-football team which plays the state championship in two modalities: 5x5 and 8x8. It had a junior and a female team during 2011-2013. It is always organizing events to help other NPO in the city and increase awareness about football.",
-			"highlights": [
+      "organization": "Taubaté Big Donkeys",
+      "position": "President & Head Coach",
+      "website": "https://facebook.com/bigdonkeys",
+      "startDate": "2010-01-01",
+      "endDate": "2014-12-31",
+      "summary": "Taubaté Big Donkeys is a non-profit sports organization based in Taubaté, São Paulo. The organization has an adult male flag-football team which plays the state championship in two modalities: 5x5 and 8x8. It had a junior and a female team during 2011-2013. It is always organizing events to help other NPO in the city and increase awareness about football.",
+      "highlights": [
         "Managed the administrative and finance departments of the organization from 2011 to 2013.",
-				"Coached the adult team from 2010 to 2014.",
+        "Coached the adult team from 2010 to 2014.",
         "Coached the junior and female team in 2013.",
         "Organized around 4 football games in Taubaté city form 2011 to 2014.",
         "Champion of Paraíba Valley Bowl in 2012",
@@ -144,8 +143,8 @@
         "Third place in brazilian national flag championship in 2013",
         "Runner-up of São Paulo state flag championship in 2013",
         "Runner-up of São Paulo state flag championship in 2014"
-			]
-		}
+      ]
+    }
   ],
   "education": [
     {
@@ -158,36 +157,36 @@
       "courses": []
     }
   ],
-	"projects": [
+  "projects": [
     {
-			"organization": "FEMUG-VP (Front-end meetup group - Vale do Paraíba)",
-			"position": "Co-founder",
-			"website": "http://sp.femug.com",
+      "organization": "FEMUG-VP (Front-end meetup group - Vale do Paraíba)",
+      "position": "Co-founder",
+      "website": "http://sp.femug.com",
       "area": "Web development",
-			"startDate": "2014-02-01",
-			"endDate": "current",
-			"summary": "I helped to organize the Front-End developers community in Vale do Paraíba. Contacted BrazilJS, to open a new group in the region and merged the idea with other professionals with an existing group.",
-			"highlights": [
+      "startDate": "2014-02-01",
+      "endDate": "current",
+      "summary": "I helped to organize the Front-End developers community in Vale do Paraíba. Contacted BrazilJS, to open a new group in the region and merged the idea with other professionals with an existing group.",
+      "highlights": [
         "We organize monthly meetups to talk about front-end development, resources, worklfow, techniques and everything between these topics."
-			]
-		}
+      ]
+    }
   ],
-	"awards": [],
-	"publications": [],
-	"skills": [
-		{
-			"name": "Front-end Development",
-			"level": "Master",
-			"keywords": [
-				"HTML",
-				"CSS",
-				"Javascript",
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front-end Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
         "React",
         "Redux",
         "Node.js",
         "TypeScript"
-			]
-		},
+      ]
+    },
     {
       "name": "Soft skills",
       "level": "Master",
@@ -200,45 +199,36 @@
         "Leadership"
       ]
     }
-	],
-	"languages": [
-		{
-			"language": "Portuguese",
-			"fluency": "Native speaker"
-		},
+  ],
+  "languages": [
     {
-			"language": "English",
-			"fluency": "Professional fluency"
-		},
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
     {
-			"language": "Spanish",
-			"fluency": "Limited conversational skills (B1)"
-		},
+      "language": "English",
+      "fluency": "Professional fluency"
+    },
     {
-			"language": "German",
-			"fluency": "Limited conversational skills (A1)"
-		}
-	],
-	"interests": [
-		{
-			"name": "Sports",
-			"keywords": [
-				"Soccer",
-				"Football",
-        "Volleyball",
-        "Tennis",
-        "Ping pong"
-			]
-		},
+      "language": "Spanish",
+      "fluency": "Limited conversational skills (B1)"
+    },
     {
-			"name": "Games",
-			"keywords": [
-				"Board Games",
-				"Video Games"
-			]
-		}
-	],
-	"references": [
+      "language": "German",
+      "fluency": "Limited conversational skills (A1)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Soccer", "Football", "Volleyball", "Tennis", "Ping pong"]
+    },
+    {
+      "name": "Games",
+      "keywords": ["Board Games", "Video Games"]
+    }
+  ],
+  "references": [
     {
       "name": "Rubens Gatto",
       "reference": "Orientei o Cássio como bolsista-PCI no INPE durante o desenvolvimento do portal do programa EMBRACE - Estudo e Monitoramento Brasileiro de Clima Espacial. Desempenhou as atividades atribuídas a ele com competência e criatividade, sendo seu trabalho neste projeto considerado um dos melhores sob o programa PCI do INPE."
@@ -248,8 +238,8 @@
       "reference": "Cassio is a very committed person and professional, always ready for what is necessary and extremely focused on the quality of their services, using the most modern technologiesin an appropriate way, into the project that participated, reaching and developing solutions of the highest level . I have a great pleased to have you as friend after years of working together, proud to see their professional growth, recommending it to anyone."
     }
   ],
-	"meta": {
-		"url": "https://raw.githubusercontent.com/cassiocardoso/resume/master/resume.json",
+  "meta": {
+    "url": "https://raw.githubusercontent.com/cassiocardoso/resume/master/resume.json",
     "version": "1.0.0",
     "lastModified": "2020-04-04T15:00:00"
   }
