@@ -24,6 +24,11 @@
         "url": "https://github.com/cassiocardoso"
       },
       {
+        "network": "CodePen",
+        "username": "cassiocardoso",
+        "url": "https://codepen.io/cassiocardoso"
+      },
+      {
         "network": "Stack Overflow",
         "username": "cassiocardoso",
         "url": "http://stackoverflow.com/users/3816479/cassiocardoso"
@@ -68,7 +73,8 @@
       "highlights": [
         "Created new components tailored to the user intent for the landing pages",
         "Developed an MVP of the AMP project to speed-up the landing pages",
-        "Implemented a performance metrics and checks to focusing on optimizing performance"
+        "Implemented performance metrics and checks to optimize the landing pages performance KPIs",
+        "Mentoring and helping junior developers grow in their careers"
       ]
     },
     {
@@ -82,7 +88,10 @@
       "summary": "Worked in the real estate agents support squad developing a new PWA to enable them to organize their daily activities",
       "highlights": [
         "Developed a new PWA for the real estate agents",
-        "Created and maintained performance budgets for the app"
+        "Created and maintained performance budgets for the app",
+        "Integrated this new product with internal UI libraries",
+        "Developed the back-end for this project in Node.js storing data in Google Firestore",
+        "Developed jobs using Airflow to consume messages from Apache Kafka and Google PubSub"
       ]
     },
     {
@@ -104,7 +113,7 @@
       "name": "AMARO",
       "location": "São Paulo, Brazil",
       "description": "AMARO is a DNVB (digital native vertical brand that uses bleeding-edge technology to become the biggest case of omni-channel experiences in Brazil.",
-      "position": "Lead Front-end Developer",
+      "position": "Front-end Developer",
       "url": "https://amaro.com",
       "startDate": "2014-07-01",
       "endDate": "2016-06-30",
@@ -116,7 +125,9 @@
       ]
     },
     {
-      "company": "INPE",
+      "name": "INPE",
+      "location": "São José dos Campos, Brazil",
+      "description": "INPE is the Brazilian Institute for Space Research, which produces science and technology in the space areas and the terrestrial environment and offer products and unique services for the benefit of Brazil.",
       "position": "Web Developer",
       "website": "http://www.inpe.br",
       "startDate": "2009-03-01",
@@ -137,7 +148,7 @@
       "website": "https://facebook.com/bigdonkeys",
       "startDate": "2010-01-01",
       "endDate": "2014-12-31",
-      "summary": "Taubaté Big Donkeys is a non-profit sports organization based in Taubaté, São Paulo. The organization has an adult male flag-football team which plays the state championship in two modalities: 5x5 and 8x8. It had a junior and a female team during 2011-2013. It is always organizing events to help other NPO in the city and increase awareness about football.",
+      "summary": "Taubaté Big Donkeys is a non-profit sports organization based in Taubaté, São Paulo. The organization has an adult male flag-football team which plays the state championship in two modalities: 5x5 and 8x8. It had a junior and a female team during 2011-2013. It is always organizing events to help other NPOs in the city and increase awareness about football.",
       "highlights": [
         "Managed the administrative and finance departments of the organization from 2011 to 2013.",
         "Coached the adult team from 2010 to 2014.",
@@ -189,6 +200,8 @@
         "React",
         "Redux",
         "Webpack",
+        "Jest",
+        "Cypress",
         "TypeScript"
       ]
     },
@@ -200,7 +213,9 @@
         "Express",
         "Nest.js",
         "GraphQL",
-        "MySQL"
+        "MySQL",
+        "Apache Kafka",
+        "Google Cloud (Firestore, PubSub, Cloud Functions)"
       ]
     },
     {
