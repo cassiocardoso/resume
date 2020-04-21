@@ -73,8 +73,8 @@
       "highlights": [
         "Created new components tailored to the user intent for the landing pages",
         "Developed an MVP of the AMP project to speed-up the landing pages",
-        "Implemented performance metrics and checks to optimize the landing pages performance KPIs",
-        "Mentoring and helping junior developers grow in their careers"
+        "Worked on performance metrics and checks to optimize the landing pages’ speed KPIs",
+        "Acted as the technical leadership on some projects and mentored junior developers"
       ]
     },
     {
@@ -90,7 +90,7 @@
         "Developed a new PWA for the real estate agents",
         "Created and maintained performance budgets for the app",
         "Integrated this new product with internal UI libraries",
-        "Developed the back-end for this project in Node.js storing data in Google Firestore",
+        "Developed the back-end for this project in Node.js + TypeScript storing data in Google Firestore",
         "Developed jobs using Airflow to consume messages from Apache Kafka and Google PubSub"
       ]
     },
