@@ -5,7 +5,7 @@
     "picture": "https://raw.githubusercontent.com/cassiocardoso/resume/master/assets/profile_sm.jpg",
     "email": "caugusto.cardoso@gmail.com",
     "phone": "",
-    "url": "https://cassiocardoso.me",
+    "url": "https://cassio.codes",
     "summary": "I am a passionate and self-motivated front-end engineer with more than eight years of experience. I love to craft great user experiences in the most efficiently and elegantly way. I am completely enthusiastic with a full-stack environment and passionate about the JavaScript world.",
     "location": {
       "city": "Berlin",
@@ -62,18 +62,34 @@
   },
   "work": [
     {
+      "name": "Vimcar",
+      "location": "Berlin, Germany",
+      "description": "Vimcar creates products that revolutionize an entire industry. With future-oriented technology and great attention to detail, we are digitizing the company car of the future.",
+      "position": "Software Engineer",
+      "url": "https://vimcar.de",
+      "startDate": "2018-11-01",
+      "endDate": "current",
+      "summary": "Working in the front-end infrastructure team where our goals are to build and maintain internal tools and shape the front-end architecture that empowers front-end applications at Vimcar.",
+      "highlights": [
+        "Developed a new component library (React, Styled Components, design tokens)",
+        "Feature development for the existing products (React, Mobx, TypeScript, Node.js)",
+        "Acted as a scrum master for the team"
+      ]
+    },
+    {
       "name": "Omio (formerly GoEuro)",
       "location": "Berlin, Germany",
       "description": "Omio takes a unique approach to travel. Our pioneering platform allows you to find the fastest, cheapest and best travel options by train, bus and flight to thousands of cities, towns and villages across Europe, the United States and Canada.",
       "position": "Software Engineer",
       "url": "https://omio.com",
-      "startDate": "2018-11-12",
-      "endDate": "current",
+      "startDate": "2018-11-01",
+      "endDate": "2020-06-30",
       "summary": "Working in the acquisition tribe where our main goal is to get more users in the platform and convert them into customers by providing the best experience tailored to their intent",
       "highlights": [
-        "Created new components tailored to the user intent for the landing pages",
+        "Created new components tailored to the user intent for the landing pages (React, Redux, Jest, Sass Typescript, Styled Components)",
         "Developed an MVP of the AMP project to speed-up the landing pages",
         "Worked on performance metrics and checks to optimize the landing pages’ speed KPIs",
+        "Acted as a scrum master for the team",
         "Acted as the technical leadership on some projects and mentored junior developers"
       ]
     },
@@ -87,7 +103,7 @@
       "endDate": "2018-10-29",
       "summary": "Worked in the real estate agents support squad developing a new PWA to enable them to organize their daily activities",
       "highlights": [
-        "Developed a new PWA for the real estate agents",
+        "Developed a new PWA for the real estate agents (React, Redux, Redux-Saga, Jest, Sass)",
         "Created and maintained performance budgets for the app",
         "Integrated this new product with internal UI libraries",
         "Developed the back-end for this project in Node.js + TypeScript storing data in Google Firestore",
@@ -102,9 +118,9 @@
       "url": "https://amaro.com",
       "startDate": "2016-07-01",
       "endDate": "2017-10-31",
-      "summary": "Lead the development of the new front-end application for the e-commerce platform which included a new design, new features and optimizations focused on performance and SEO improvements",
+      "summary": "Led the development of the new front-end application for the e-commerce platform which included a new design, new features and optimizations focused on performance and SEO improvements",
       "highlights": [
-        "Led the development of the new front-end application using a new tech stack",
+        "Led the development of the new front-end application using a new tech stack (React, Redux, Redux-Saga, Jest, Sass)",
         "Refined and delivered new functionality to the customers",
         "Organized the front-end team tasks in an agile way"
       ]
@@ -117,11 +133,11 @@
       "url": "https://amaro.com",
       "startDate": "2014-07-01",
       "endDate": "2016-06-30",
-      "summary": "Develop and maintain the front-end for the e-commerce application, gather requirements, build layouts, optimize the performance and SEO rankings.",
+      "summary": "Developed and maintained the front-end for the e-commerce application, gathering requirements, building layouts, and, optimizing the performance and SEO rankings.",
       "highlights": [
         "Joined the company as employee #30",
-        "Built the entire front-end application for the in-house e-commerce platform",
-        "Created an internal UI library to be used across all the front-end apps"
+        "Built the entire front-end application for the in-house e-commerce platform (HTML, CSS, Bootstrap, JS, jQuery)",
+        "Created an internal UI library to be used across all the front-end apps (Bootstrap, LESS, JS, jQuery)"
       ]
     },
     {
