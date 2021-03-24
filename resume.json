@@ -5,8 +5,8 @@
     "picture": "https://raw.githubusercontent.com/cassiocardoso/resume/master/assets/profile_sm.jpg",
     "email": "caugusto.cardoso@gmail.com",
     "phone": "",
-    "url": "https://cassio.codes",
-    "summary": "I am a passionate and self-motivated front-end engineer with more than eight years of experience. I love to craft great user experiences in the most efficiently and elegantly way. I am completely enthusiastic with a full-stack environment and passionate about the JavaScript world.",
+    "url": "https://crds.me",
+    "summary": "I am a passionate and self-motivated front-end engineer, I have been working with tech since the early 2010s. I love to craft great user experiences in the most efficient and elegant way. I am completely enthusiastic with a full-stack environment and passionate about the JavaScript world.",
     "location": {
       "city": "Berlin",
       "countryCode": "DE",
@@ -39,21 +39,6 @@
         "url": "https://www.npmjs.com/~cassiocardoso07"
       },
       {
-        "network": "Twitter",
-        "username": "cassiocardoso",
-        "url": "https://twitter.com/cassiocardoso"
-      },
-      {
-        "network": "Facebook",
-        "username": "cassiocardoso01",
-        "url": "https://www.facebook.com/cassiocardoso01"
-      },
-      {
-        "network": "Instagram",
-        "username": "cassiocardoso",
-        "url": "https://www.instagram.com/cassiocardoso/"
-      },
-      {
         "network": "Telegram",
         "username": "cassiocardoso",
         "url": "https://t.me/cassiocardoso/"
@@ -67,13 +52,13 @@
       "description": "Vimcar creates products that revolutionize an entire industry. With future-oriented technology and great attention to detail, we are digitizing the company car of the future.",
       "position": "Software Engineer",
       "url": "https://vimcar.de",
-      "startDate": "2018-11-01",
+      "startDate": "2020-07-01",
       "endDate": "current",
-      "summary": "Working in the front-end infrastructure team where our goals are to build and maintain internal tools and shape the front-end architecture that empowers front-end applications at Vimcar.",
+      "summary": "Working in the internal tooling team where our main focus is to provide tools and infrastructure for the other teams at Vimcar",
       "highlights": [
-        "Developed a new component library (React, Styled Components, design tokens)",
-        "Feature development for the existing products (React, Mobx, TypeScript, Node.js)",
-        "Acted as a scrum master for the team"
+        "Development of new internal tools for our stakeholders (sales; customer service; etc)",
+        "Defining standards for the front-end development for the whole company (common patterns; shared libraries; design system)",
+        "Acting as the scrum master for the team and driving the scrum rituals"
       ]
     },
     {
@@ -116,28 +101,16 @@
       "description": "AMARO is a DNVB (digital native vertical brand that uses bleeding-edge technology to become the biggest case of omni-channel experiences in Brazil.",
       "position": "Lead Front-end Developer",
       "url": "https://amaro.com",
-      "startDate": "2016-07-01",
+      "startDate": "2014-07-01",
       "endDate": "2017-10-31",
       "summary": "Led the development of the new front-end application for the e-commerce platform which included a new design, new features and optimizations focused on performance and SEO improvements",
       "highlights": [
-        "Led the development of the new front-end application using a new tech stack (React, Redux, Redux-Saga, Jest, Sass)",
-        "Refined and delivered new functionality to the customers",
-        "Organized the front-end team tasks in an agile way"
-      ]
-    },
-    {
-      "name": "AMARO",
-      "location": "São Paulo, Brazil",
-      "description": "AMARO is a DNVB (digital native vertical brand that uses bleeding-edge technology to become the biggest case of omni-channel experiences in Brazil.",
-      "position": "Front-end Developer",
-      "url": "https://amaro.com",
-      "startDate": "2014-07-01",
-      "endDate": "2016-06-30",
-      "summary": "Developed and maintained the front-end for the e-commerce application, gathering requirements, building layouts, and, optimizing the performance and SEO rankings.",
-      "highlights": [
         "Joined the company as employee #30",
         "Built the entire front-end application for the in-house e-commerce platform (HTML, CSS, Bootstrap, JS, jQuery)",
-        "Created an internal UI library to be used across all the front-end apps (Bootstrap, LESS, JS, jQuery)"
+        "Led the development of the new front-end application using a new tech stack (React, Redux, Redux-Saga, Jest, Sass)",
+        "Refined and delivered new functionality to the customers",
+        "Organized the front-end team tasks in an agile way",
+        "People management: 1-on-1s with direct reports, hiring, mentoring, performance evaluation"
       ]
     },
     {
@@ -259,16 +232,12 @@
     {
       "language": "Spanish",
       "fluency": "Limited conversational skills (B1)"
-    },
-    {
-      "language": "German",
-      "fluency": "Limited conversational skills (A1)"
     }
   ],
   "interests": [
     {
       "name": "Sports",
-      "keywords": ["Soccer", "Football", "Volleyball", "Tennis", "Ping pong"]
+      "keywords": ["Soccer", "Football", "American Football", "Volleyball", "Tennis", "Ping pong"]
     },
     {
       "name": "Games",
@@ -287,7 +256,7 @@
   ],
   "meta": {
     "url": "https://raw.githubusercontent.com/cassiocardoso/resume/master/resume.json",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "lastModified": "2020-04-04T15:00:00"
   }
 }
