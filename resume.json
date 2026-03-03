@@ -1,22 +1,22 @@
 {
   "basics": {
     "name": "Cassio Cardoso",
-    "label": "Front-end Engineer",
+    "label": "Senior Software Engineer",
     "picture": "https://raw.githubusercontent.com/cassiocardoso/resume/master/assets/profile_sm.jpg",
-    "email": "caugusto.cardoso@gmail.com",
+    "email": "cas.cardoso90@gmail.com",
     "phone": "",
-    "url": "https://crds.me",
-    "summary": "I am a passionate and self-motivated front-end engineer, I have been working with tech since the early 2010s. I love to craft great user experiences in the most efficient and elegant way. I am completely enthusiastic with a full-stack environment and passionate about the JavaScript world.",
+    "url": "",
+    "summary": "Senior Software Engineer with 10+ years of experience in front-end and full-stack development, and over 4 years of experience leading cross-functional teams. Proven track record in building scalable platforms, mentoring other engineers, and delivering innovative solutions to increase business outcomes.",
     "location": {
-      "city": "Berlin",
-      "countryCode": "DE",
-      "region": "Berlin"
+      "city": "Porto",
+      "countryCode": "PT",
+      "region": "Porto"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "cassiocardoso",
-        "url": "https://br.linkedin.com/in/cassiocardoso"
+        "url": "https://www.linkedin.com/in/cassiocardoso/"
       },
       {
         "network": "GitHub",
@@ -47,86 +47,122 @@
   },
   "work": [
     {
-      "name": "Vimcar",
-      "location": "Berlin, Germany",
-      "description": "Vimcar creates products that revolutionize an entire industry. With future-oriented technology and great attention to detail, we are digitizing the company car of the future.",
-      "position": "Software Engineer",
-      "url": "https://vimcar.de",
-      "startDate": "2020-07-01",
+      "name": "Photoroom",
+      "location": "Remote, Portugal",
+      "description": "Photoroom is an AI-powered photo editing platform that helps businesses create professional product images.",
+      "position": "Senior Frontend Engineer",
+      "url": "https://www.photoroom.com/",
+      "startDate": "2026-02-16",
       "endDate": "current",
-      "summary": "Working in the internal tooling team where our main focus is to provide tools and infrastructure for the other teams at Vimcar",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "OLX Group",
+      "location": "Remote, Portugal",
+      "description": "OLX Group is a global online marketplace operating in 30+ countries, connecting millions of buyers and sellers.",
+      "position": "Senior Frontend Software Engineer",
+      "url": "https://www.olx.pt/",
+      "startDate": "2024-10-01",
+      "endDate": "2026-02-01",
+      "summary": "Worked as a senior software engineer in the customer acquisition group focused on maintaining, improving, and developing new features for the home and listing pages of the application.",
       "highlights": [
-        "Development of new internal tools for our stakeholders (sales; customer service; etc)",
-        "Defining standards for the front-end development for the whole company (common patterns; shared libraries; design system)",
-        "Acting as the scrum master for the team and driving the scrum rituals"
+        "Worked in the customer acquisition group to maintain, improve, and develop new features for the home and listing pages",
+        "Implemented a plan to test a new frontend architecture for the listing page aiming to reduce the effort to maintain the page and develop new features"
       ]
     },
     {
-      "name": "Omio (formerly GoEuro)",
+      "name": "Oliva Health",
+      "location": "Remote, Portugal",
+      "description": "Oliva Health is a mental health platform that connects employees with therapists and coaches to improve wellbeing in the workplace.",
+      "position": "Senior Software Engineer / Tech Lead",
+      "url": "https://www.oliva.health/",
+      "startDate": "2021-05-01",
+      "endDate": "2024-08-31",
+      "summary": "2nd engineer hired. Developed the whole platform from scratch by defining and implementing the main flows, making architectural decisions and creating the initial infrastructure. Managed a team of 4 full-stack engineers.",
+      "highlights": [
+        "2nd engineer hired; developed the whole platform from scratch by defining and implementing the main flows, making architectural decisions and creating the initial infrastructure",
+        "Managed a team of 4 full-stack engineers to successfully plan, design, and deliver product features on the backend, web and mobile",
+        "Developed a rule-based matching algorithm to match users and therapists which achieved a 95% success rate",
+        "Led the implementation of the SSO integration which generated over 200k ARR",
+        "Led the implementation of the first AI-powered feature that increased NPS from ~50 to 70"
+      ]
+    },
+    {
+      "name": "Vimcar",
       "location": "Berlin, Germany",
-      "description": "Omio takes a unique approach to travel. Our pioneering platform allows you to find the fastest, cheapest and best travel options by train, bus and flight to thousands of cities, towns and villages across Europe, the United States and Canada.",
+      "description": "Vimcar creates products that revolutionize an entire industry. With future-oriented technology and great attention to detail, we are digitizing the company car of the future.",
+      "position": "Senior Software Engineer",
+      "url": "https://www.vimcar.de/",
+      "startDate": "2020-07-01",
+      "endDate": "2021-05-31",
+      "summary": "Worked in the internal tooling team developing new tools for internal stakeholders and defining front-end development standards across the company.",
+      "highlights": [
+        "Developed new tools for internal stakeholders and maintained existing ones (unified auth flow/app)",
+        "Defined standards for front-end development across the company (common patterns; shared libraries; design system)"
+      ]
+    },
+    {
+      "name": "Omio",
+      "location": "Berlin, Germany",
+      "description": "Omio is a travel platform that allows users to find the fastest, cheapest and best travel options by train, bus and flight across Europe, the United States and Canada.",
       "position": "Software Engineer",
-      "url": "https://omio.com",
+      "url": "https://www.omio.com/",
       "startDate": "2018-11-01",
       "endDate": "2020-06-30",
-      "summary": "Working in the acquisition tribe where our main goal is to get more users in the platform and convert them into customers by providing the best experience tailored to their intent",
+      "summary": "Worked in the acquisition tribe where the main goal was to get more users on the platform and convert them into customers by providing the best experience tailored to their intent.",
       "highlights": [
-        "Created new components tailored to the user intent for the landing pages (React, Redux, Jest, Sass Typescript, Styled Components)",
-        "Developed an MVP of the AMP project to speed-up the landing pages",
-        "Worked on performance metrics and checks to optimize the landing pages’ speed KPIs",
-        "Acted as a scrum master for the team",
-        "Acted as the technical leadership on some projects and mentored junior developers"
+        "Used and maintained an internal framework to compose micro-frontends",
+        "Developed an MVP of the AMP project",
+        "Worked on defining, implementing, and measuring the landing page performance with lab and field data",
+        "Led the development of the Omio Magazine",
+        "Developed a recommendation solution that generated a 3% booking increase"
       ]
     },
     {
       "name": "QuintoAndar",
       "location": "São Paulo, Brazil",
-      "description": "QuintoAndar uses technology and design to make the renting experience pleasant for both the tenants and landlords.",
+      "description": "QuintoAndar uses technology and design to make the renting experience pleasant for both tenants and landlords.",
       "position": "Software Engineer",
-      "url": "https://quintoandar.com.br",
-      "startDate": "2017-11-06",
-      "endDate": "2018-10-29",
-      "summary": "Worked in the real estate agents support squad developing a new PWA to enable them to organize their daily activities",
+      "url": "https://www.quintoandar.com.br/",
+      "startDate": "2017-11-01",
+      "endDate": "2018-10-31",
+      "summary": "Worked in the real estate agents support squad developing a new PWA and RESTful APIs integrated with Google Cloud services.",
       "highlights": [
-        "Developed a new PWA for the real estate agents (React, Redux, Redux-Saga, Jest, Sass)",
-        "Created and maintained performance budgets for the app",
-        "Integrated this new product with internal UI libraries",
-        "Developed the back-end for this project in Node.js + TypeScript storing data in Google Firestore",
-        "Developed jobs using Airflow to consume messages from Apache Kafka and Google PubSub"
+        "Built a new PWA for the real estate agents and developed RESTful APIs, micro-services and integrated with Google Cloud Firestore and third-party tools (Google Tag Manager; Sentry; Intercom)",
+        "Created and maintained a performance budget for the app (achieved a 5% improvement in loading time)"
       ]
     },
     {
       "name": "AMARO",
       "location": "São Paulo, Brazil",
-      "description": "AMARO is a DNVB (digital native vertical brand that uses bleeding-edge technology to become the biggest case of omni-channel experiences in Brazil.",
-      "position": "Lead Front-end Developer",
-      "url": "https://amaro.com",
-      "startDate": "2014-07-01",
+      "description": "AMARO is a digital native vertical brand (DNVB) that uses technology to deliver omni-channel retail experiences in Brazil.",
+      "position": "Frontend Engineer / Lead Frontend Engineer",
+      "url": "https://amaro.com/",
+      "startDate": "2014-05-01",
       "endDate": "2017-10-31",
-      "summary": "Led the development of the new front-end application for the e-commerce platform which included a new design, new features and optimizations focused on performance and SEO improvements",
+      "summary": "1st engineer hired. Led the development of the in-house e-commerce platform from the ground up and managed the frontend engineering team.",
       "highlights": [
-        "Joined the company as employee #30",
-        "Built the entire front-end application for the in-house e-commerce platform (HTML, CSS, Bootstrap, JS, jQuery)",
-        "Led the development of the new front-end application using a new tech stack (React, Redux, Redux-Saga, Jest, Sass)",
-        "Refined and delivered new functionality to the customers",
-        "Organized the front-end team tasks in an agile way",
-        "People management: 1-on-1s with direct reports, hiring, mentoring, performance evaluation"
+        "1st engineer hired; delivered the first in-house e-commerce platform, supporting 4M users/month and generating >$500k annual revenue",
+        "Led the migration of the platform into a more modern codebase using a React-based stack",
+        "Managed a team of frontend engineers through regular 1:1 meetings and feedback sessions",
+        "Actively involved in the hiring process, onboarding, and mentoring of new engineers"
       ]
     },
     {
       "name": "INPE",
       "location": "São José dos Campos, Brazil",
-      "description": "INPE is the Brazilian Institute for Space Research, which produces science and technology in the space areas and the terrestrial environment and offer products and unique services for the benefit of Brazil.",
+      "description": "INPE is the Brazilian Institute for Space Research, which produces science and technology in the space areas and the terrestrial environment.",
       "position": "Web Developer",
-      "url": "http://www.inpe.br",
+      "url": "https://www.gov.br/inpe/pt-br",
       "startDate": "2009-03-01",
       "endDate": "2014-04-30",
-      "summary": "Worked as a web developer in the space weather program, developed its web portal and several integrations with equipments collecting data across the country. Built visualization tools for these data. ",
+      "summary": "Worked as a web developer in the space weather program, developed its web portal and several integrations with equipments collecting data across the country.",
       "highlights": [
-        "Developed the website for the Space Weather program.",
+        "Developed the website for the Space Weather program",
         "Developed systems to store and visualize data collected by different equipments across the country",
-        "Build an online system to allow space weather researchers to publish a daily bulletin with a summary of information from the related fields of study.",
-        "Build hot-sites for biannual workshops organized by the Space Weather program."
+        "Built an online system to allow space weather researchers to publish a daily bulletin",
+        "Built hot-sites for biannual workshops organized by the Space Weather program"
       ]
     }
   ],
@@ -183,15 +219,16 @@
       "name": "Front-end Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "React",
+        "React.js",
+        "Next.js",
         "Redux",
-        "Webpack",
-        "Jest",
-        "Cypress",
-        "TypeScript"
+        "MobX",
+        "Tailwind",
+        "Storybook",
+        "Design Systems",
+        "React Native",
+        "TypeScript",
+        "CSS-in-JS"
       ]
     },
     {
@@ -201,22 +238,53 @@
         "Node.js",
         "Express",
         "Nest.js",
+        "TypeScript",
         "GraphQL",
+        "Apollo",
         "MySQL",
-        "Apache Kafka",
-        "Google Cloud (Firestore, PubSub, Cloud Functions)"
+        "Postgres",
+        "Firebase",
+        "MongoDB",
+        "DDD"
       ]
     },
     {
-      "name": "Soft skills",
+      "name": "Cloud & DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "GCP",
+        "Docker",
+        "Terraform",
+        "GitHub Actions",
+        "Event-Driven Architecture"
+      ]
+    },
+    {
+      "name": "Testing",
       "level": "Master",
       "keywords": [
-        "Ownership",
-        "Hands-on",
-        "Eager to learn",
-        "Self-motivated",
-        "Project management",
-        "Leadership"
+        "Jest",
+        "Testing Library",
+        "Playwright",
+        "Cypress",
+        "BDD",
+        "Cucumber"
+      ]
+    },
+    {
+      "name": "Leadership & Soft Skills",
+      "level": "Master",
+      "keywords": [
+        "Leadership",
+        "Communication",
+        "Problem Solving",
+        "Collaboration",
+        "Mentoring",
+        "Accountability",
+        "Feedback",
+        "Hiring",
+        "Team Management"
       ]
     }
   ],
@@ -256,7 +324,7 @@
   ],
   "meta": {
     "url": "https://raw.githubusercontent.com/cassiocardoso/resume/master/resume.json",
-    "version": "1.1.1",
-    "lastModified": "2020-04-04T15:00:00"
+    "version": "2.0.0",
+    "lastModified": "2026-03-03T00:00:00"
   }
 }
